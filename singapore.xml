@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Ch 5">
+    <display-name lang="en">Ch 5 (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Ch 8">
+    <display-name lang="en">Ch 8 (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Ch U">
+    <display-name lang="en">Ch U (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Suria">
+    <display-name lang="en">Suria (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Vasantham">
+    <display-name lang="en">Vasantham (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="CNA">
+    <display-name lang="en">CNA HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+ 
