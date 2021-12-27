@@ -1,173 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.2.2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com" >
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Ch 5">
-    <display-name lang="zh-CN">第 5 章（高清）</display-name>
+    <display-name lang="en">Ch 5 (HD)</display-name>
     <url>http://www.singteltv.com.sg</url>
-  </频道>
+  </channel>
   <channel id="Ch 8">
-    <display-name lang="zh-CN">第 8 章（高清）</display-name>
+    <display-name lang="en">Ch 8 (HD)</display-name>
     <url>http://www.singteltv.com.sg</url>
-  </频道>
+  </channel>
   <channel id="Ch U">
-    <display-name lang="zh-CN">Ch U (HD)</display-name>
+    <display-name lang="en">Ch U (HD)</display-name>
     <url>http://www.singteltv.com.sg</url>
-  </频道>
-  <channel id="苏利亚">
-    <display-name lang="zh-CN">苏利亚（高清）</display-name>
+  </channel>
+  <channel id="Suria">
+    <display-name lang="en">Suria (HD)</display-name>
     <url>http://www.singteltv.com.sg</url>
-  </频道>
+  </channel>
   <channel id="Vasantham">
-    <display-name lang="zh-CN">Vasantham (HD)</display-name>
+    <display-name lang="en">Vasantham (HD)</display-name>
     <url>http://www.singteltv.com.sg</url>
-  </频道>
+  </channel>
   <channel id="CNA">
-    <display-name lang="zh-CN">CNA 高清</display-name>
+    <display-name lang="en">CNA HD</display-name>
     <url>http://www.astro.com.my</url>
-  </频道>
+  </channel>
   <programme start="20211225013000 +0800" stop="20211225022000 +0800" channel="Ch 5">
-    <title lang="en">Renee Fleming，纽约的圣诞节（2014 年）</title>
-    <desc lang="zh-CN">圣诞节在纽约举行的一系列亲密而独特的音乐表演中捕捉到了这座城市在一年中最美好的时光的精髓。拍摄于 2014 年的美国女高音雷内·弗莱明和包括鲁弗斯·温赖特、格雷戈里·波特、凯莉·奥哈拉和库尔特·埃林在内的特邀嘉宾将纽约标志性的圣诞节带到了世界各地的家庭。雷内和她的客人讨论家庭、食物、传统、他们最喜欢的圣诞歌曲，并在熊熊的火炉旁唱颂歌。</desc>
-  </程序>
+    <title lang="en">Renee Fleming, Christmas in New York (2014)</title>
+    <desc lang="en">The essence of the city during the most wonderful time of year is captured in a series of intimate and unique musical performances on Christmas In New York. Filmed in 2014, American soprano Rene Fleming and special guests including Rufus Wainwright, Gregory Porter, Kelli OHara and Kurt Elling bring the iconic Christmas season in New York to homes around the world. Rene and her guests discuss family, food, tradition, their favourite Christmas songs and sing carols by the roaring fire.</desc>
+  </programme>
   <programme start="20211225022000 +0800" stop="20211225025000 +0800" channel="Ch 5">
-    <title lang="zh-CN">亲属</title>
-    <desc lang="zh-CN">Madeline 认为阿福对她想要孩子的愿望不敏感。当卡梅隆让肯尼斯帮他照顾刚出生的婴儿时，阿杰很不高兴。</desc>
-  </程序>
+    <title lang="en">Kin</title>
+    <desc lang="en">Madeline thinks that Ah Hock is insensitive to her desire to have children. Ajay is upset when Cameron asks Kenneth to help him look after their newborn babies.</desc>
+  </programme>
   <programme start="20211225025000 +0800" stop="20211225043000 +0800" channel="Ch 5">
-    <title lang="zh-CN">圣诞契约</title>
-    <desc lang="zh-CN">一位最近单身的女性在得知前男友和新女友会在那里时，害怕回她位于路易斯安那州的家乡过圣诞节。</desc>
-  </程序>
+    <title lang="en">The Christmas Contract</title>
+    <desc lang="en">A recently-single woman dreads the thought of going back to her home town in Louisiana for Christmas when she finds out her ex-boyfriend will be there with his new girlfriend.</desc>
+  </programme>
   <programme start="20211225043000 +0800" stop="20211225060000 +0800" channel="Ch 5">
-    <title lang="en">太阳马戏团：Kurios - 好奇心之阁</title>
-    <desc lang="en">太阳马戏团令人难以置信的团队将观众邀请到一个超乎想象的古玩柜中，在这里，一个充满疯狂想法、宏伟梦想和超凡脱俗的角色的世界栩栩如生，激发想象力。</desc>
-  </程序>
+    <title lang="en">Cirque Du Soleil: Kurios - Cabinet Of Curiosities</title>
+    <desc lang="en">The incredible team at Cirque du Soleil invites viewers inside a larger-than-life curio cabinet, where a world of crazy ideas, grand dreams and otherworldly characters spring to life and engage imaginations.</desc>
+  </programme>
   <programme start="20211225060000 +0800" stop="20211225063000 +0800" channel="Ch 5">
-    <title lang="zh-CN">Zoom Zim Zam S2</title>
-    <desc lang="en">加入拥有超能力的超级英雄 Zoom、Zim 和 Zam，他们会带您游览字母星系，每天教您不同的字母表。今天的字母是 S 和 T。S 和 T 行星的居民需要学习锻炼。</desc>
-  </程序>
+    <title lang="en">Zoom Zim Zam S2</title>
+    <desc lang="en">Join Zoom, Zim and Zam, superheroes with superpowers, as they take you around the alphabet galaxy and teach you a different alphabet everyday. Today's alphabets are S and T. Residents of Planets S and T needs lessons on exercising.</desc>
+  </programme>
   <programme start="20211225063000 +0800" stop="20211225070000 +0800" channel="Ch 5">
-    <title lang="zh-CN">彩虹巴士</title>
-    <desc lang="zh-CN">第一次冒险将他们带到了自然保护区。接下来，他们前往青蛙农场了解更多关于青蛙的知识！最后，冒险者们在森林冒险中面临一些障碍！</desc>
-  </程序>
+    <title lang="en">The Rainbow Bus</title>
+    <desc lang="en">The first adventure brings them to a Nature Reserve. Next they head to the Frog Farm to learn more about frogs! Lastly, the adventurers face some obstacle course at Forest Adventure!</desc>
+  </programme>
   <programme start="20211225070000 +0800" stop="20211225073000 +0800" channel="Ch 5">
-    <title lang="zh-CN">邹S3</title>
-    <desc lang="en">加入斑马邹及其家人和朋友的行列，进行更多日常发现和探索冒险！</desc>
-  </程序>
+    <title lang="en">Zou S3</title>
+    <desc lang="en">Join Zou the zebra and his family and friends for more daily adventures of discovery and exploration!</desc>
+  </programme>
   <programme start="20211225073000 +0800" stop="20211225080000 +0800" channel="Ch 5">
-    <title lang="zh">巨龙 S1</title>
-    <desc lang="zh-CN">Rocky、Bill、Tiny 和 Mazu 是四只生长在白垩纪的年轻恐龙。生活总是一场冒险......而巨龙，最大、最凶猛的恐龙，统治着这一切！</desc>
-  </程序>
+    <title lang="en">Gigantosaurus S1</title>
+    <desc lang="en">Rocky, Bill, Tiny and Mazu are four young dinosaurs growing up in the Cretaceous period. Life is always an adventure... and Gigantosaurus, the biggest, fiercest dinosaur, reigns over it all!</desc>
+  </programme>
   <programme start="20211225080000 +0800" stop="20211225083000 +0800" channel="Ch 5">
-    <title lang="zh-CN">与 Paula S6 一起计数</title>
-    <desc lang="zh-CN">孩子们被派去处理失物招领柜台。Astrid 决定找到物品的主人，但错误地将它们归还给了其他人。当实际所有者返回并找不到他们的物品时会发生什么？宇航员先生指示孩子们不要触摸宇宙飞船控制面板上的红色按钮，但蒂姆忍不住让他们迷失在太空中。</desc>
-  </程序>
+    <title lang="en">Counting With Paula S6</title>
+    <desc lang="en">The children are sent on a mission to take care of the lost and found counter. Astrid decides to find the item's owner but returns them wrongly to someone else. What happens when the actual owner returns and couldn't find their item? Mr Astronaut instructs the children not to touch a red button on the control panel of a spaceship but Tim couldn't resist causing them to get lost in space.</desc>
+  </programme>
   <programme start="20211225083000 +0800" stop="20211225090000 +0800" channel="Ch 5">
-    <title lang="zh">Ollie And Friends S8</title>
-    <desc lang="zh-CN">奥利小队正式进驻小鬼巢穴！随着这伙人学会分享他们的空间，争吵随之而来。与此同时，Poly-GON 的计划威胁到他们的前门。</desc>
-  </程序>
-  <program start="20211225090000 +0800" stop="20211225100000 +0800" channel="Ch 5">
-    <title lang="zh-CN">我的小马驹小马国女孩特辑：假日解开</title>
-    <desc lang="en">围绕假日季节在 Canterlot High 的六个短篇故事交织在一起，包括假的下雪天、提供完美的蛋奶酥、欺骗 Flim Flam、儿童玩具、最后一刻的礼物交换和主题照片。< /desc>
-  </程序>
+    <title lang="en">Ollie And Friends S8</title>
+    <desc lang="en">The Ollie Squad officially moves into the Imp's Lair! Squabbles ensue as the gang learn to share their space. Meanwhile, Poly-GON's scheme threatens to arrive at their front door.</desc>
+  </programme>
+  <programme start="20211225090000 +0800" stop="20211225100000 +0800" channel="Ch 5">
+    <title lang="en">My Little Pony Equestria Girls Special: Holiday Unwrapped</title>
+    <desc lang="en">Six short stories at Canterlot High interwoven around the holiday season including a fake snow day, delivering a perfect souffle, out-swindling the Flim Flam, children's toys, a last minute gift exchange and themed photograph.</desc>
+  </programme>
   <programme start="20211225100000 +0800" stop="20211225103000 +0800" channel="Ch 5">
-    <title lang="en">口袋妖怪之旅：S23 系列</title>
-    <desc lang="zh-CN">当我们的英雄开始调查谣言时，找到传说中的神奇宝贝就成了重中之重！</desc>
-  </程序>
-  <program start="20211225103000 +0800" stop="20211225110000 +0800" channel="Ch 5">
-    <title lang="zh-CN">蔓延代理</title>
-    <desc lang="en">关于 UnyX 和团队的恶意谣言开始流传。斯蒂芬零现身讲述了他的故事，揭开了他和 UnyX 之间隐藏的过去——她自己也承认了这一点。那么，斯蒂芬真的是反派吗……还是一直都是 UnyX？</desc>
-  </程序>
-  <program start="20211225110000 +0800" stop="20211225113000 +0800" channel="Ch 5">
-    <title lang="zh-CN">奇迹：瓢虫的故事 & 黑猫S3</title>
-    <desc lang="en">Marinette 和 Adrien 的关系终于向前迈出了谨慎的一步，但 Kagami——以及巴黎的未来——阻碍了他们。</desc>
-  </程序>
+    <title lang="en">Pokemon Journeys: The Series S23</title>
+    <desc lang="en">When our heroes set off to investigate a rumor, finding a Legendary Pokemon becomes top priority!</desc>
+  </programme>
+  <programme start="20211225103000 +0800" stop="20211225110000 +0800" channel="Ch 5">
+    <title lang="en">Agents Of Sprawl</title>
+    <desc lang="en">Vicious rumours begin to circulate about UnyX and the team. Stephen Zero shows up to tell his side of the story, uncovering a hidden past between him and UnyX - one that she herself confesses to. So, is Stephen really the villain... or was it UnyX all along?</desc>
+  </programme>
+  <programme start="20211225110000 +0800" stop="20211225113000 +0800" channel="Ch 5">
+    <title lang="en">Miraculous: Tales of Ladybug &amp; Cat Noir S3</title>
+    <desc lang="en">Marinette and Adrien's relationship finally takes a cautious step forward, but Kagami -- and the future of Paris -- stand in their way.</desc>
+  </programme>
   <programme start="20211225113000 +0800" stop="20211225120000 +0800" channel="Ch 5">
-    <title lang="zh">Beyblade Burst S1</title>
-    <desc lang="zh-CN">就在比赛前，Ken 被 Xander 和他强大的新技术吓到了，但在团队的鼓舞人心的演讲之后，他发誓要把恐惧抛在脑后。接下来轮到 Valt 在三分比赛中面对 Xander。尽管瓦尔特决心要赢，但瓦尔特里克似乎出了点问题。</desc>
-  </程序>
+    <title lang="en">Beyblade Burst S1</title>
+    <desc lang="en">Just before a match, Ken is rattled by Xander and his powerful new technique, but after a pep talk from the team, he vows to put his fears behind him. Next it's Valt's turn to face Xander in a three-point match. Something seems to be wrong with Valtryek, despite Valt's determination to win.</desc>
+  </programme>
   <programme start="20211225120000 +0800" stop="20211225123000 +0800" channel="Ch 5">
-    <title lang="en">瑞秋艾伦的蛋糕日记</title>
-    <desc lang="zh-CN">蛋糕的意义远不止我们所熟知的传统庆祝活动。它不应该局限于生日和纪念日。一个伟大的蛋糕在日常生活中扮演着重要的角色。在这个超级时尚而又个性化的系列中，厨师雷切尔·艾伦 (Rachel Allen) 翻阅她的日记，其中包括一系列生活事件，从重大的家庭活动到天气变化这样简单的事情，都激发了蛋糕的灵感。</desc >
-  </程序>
+    <title lang="en">Rachel Allen's Cake Diaries</title>
+    <desc lang="en">Cake is about so much more than the traditional celebrations we all recognise. It shouldn't be confined to birthdays and anniversaries. A great cake has a part to play in everyday life. In this super-stylish yet personal series, chef Rachel Allen flicks through her diary where a range of life events, from a big family occasion to something as simple as a change in the weather, inspires a cake to compliment the moment.</desc>
+  </programme>
   <programme start="20211225123000 +0800" stop="20211225141500 +0800" channel="Ch 5">
-    <title lang="zh-CN">恋爱中的圣诞节</title>
-    <desc lang="zh-CN">Ellie Hartman 是一位在小镇面包店工作的有抱负的工匠，她向大城市新任 CEO 尼克卡林森（Nick Carlingson）展示了他在访问面包店主楼层时表示，使企业取得成功的是人，而不是机器。 </desc>
-  </程序>
+    <title lang="en">Christmas In Love</title>
+    <desc lang="en">Ellie Hartman, an aspiring crafter working in her small town's bakery shows Nick Carlingson, the big city new CEO during his visit to the bakery's main floor that it's people and not machines that make the business a success.</desc>
+  </programme>
   <programme start="20211225141500 +0800" stop="20211225151500 +0800" channel="Ch 5">
-    <title lang="zh-CN">格温史蒂芬妮：你让它感觉像圣诞节</title>
-    <desc lang="zh-CN">Gwen Stefani 的“You Make It Feel Like Christmas”是对传统圣诞特辑的现代演绎。该节目以音乐表演和有趣的假日主题草图为特色，捕捉了斯蒂芬妮的感染力精神和标志性风格，并与世界各地的观众分享。特邀嘉宾包括布莱克谢尔顿，他是 NBC 的“The Voice”五次获奖教练和屡获殊荣的乡村音乐巨星。</desc>
-  </程序>
+    <title lang="en">Gwen Stefani: You Make It Feel Like Christmas</title>
+    <desc lang="en">Gwen Stefani's "You Make It Feel Like Christmas" is a modern take on traditional Christmas specials. Featuring music performances and fun holiday-themed sketches, the program captures Stefani's infectious spirit and iconic style, and shares it with audiences around the world. Special guest appearances include Blake Shelton, a five-time winning coach on NBC's "The Voice" and a multi-award-winning country music superstar.</desc>
+  </programme>
   <programme start="20211225151500 +0800" stop="20211225161500 +0800" channel="Ch 5">
-    <title lang="zh-CN">迈克尔·布布尔的城市圣诞节（2021 年）</title>
-    <desc lang="zh-CN">这将是迈克尔自 2015 年迈克尔布布尔在好莱坞的圣诞节后的第一个圣诞节特别节目，也是他的第六个圣诞节特别节目。他重返电视界，庆祝他创纪录的 2011 年专辑“圣诞节”发行 10 周年，因此您可以期待该项目的音乐以及其他圣诞节最受欢迎的音乐成为焦点。</desc>
-  </程序>
+    <title lang="en">Michael Buble's Christmas in the City (2021)</title>
+    <desc lang="en">This will be Michael's first Christmas special since 2015's Michael Buble's Christmas in Hollywood and his sixth one overall. He's returned to TV to celebrate the 10th anniversary of his record-setting 2011 album, Christmas, so you can expect music from that project to take center stage, along with other Christmas favorites.</desc>
+  </programme>
   <programme start="20211225161500 +0800" stop="20211225171500 +0800" channel="Ch 5">
-    <title lang="zh">精灵：好友的音乐圣诞节</title>
-    <desc lang="en">改编自著名电影的定格音乐剧，在北极长大的人类巴迪前往纽约寻找家人。</desc>
-  </程序>
+    <title lang="en">Elf: Buddy's Musical Christmas</title>
+    <desc lang="en">A musical, stop-motion adaptation of the well-known movie, Buddy, a human raised in the north pole, goes to New York to find his family.</desc>
+  </programme>
   <programme start="20211225171500 +0800" stop="20211225181500 +0800" channel="Ch 5">
-    <title lang="zh-CN">2021 年 TotalEnergies BWF 世界锦标赛（男单决赛）</title>
-    <desc lang="en">2021 年全能 BWF 世界锦标赛于 2021 年 12 月 12 日至 19 日在西班牙韦尔瓦的 Palacio de los Deportes Carolina Marn 举行，新加坡羽毛球运动员 Loh Kean Yew 在击败印度的 Kidambi Srikanth 赢得男子组冠军后冲进胜利单打冠军，并成为第一个赢得 BWF 世锦赛冠军的新加坡人。</desc>
-  </程序>
+    <title lang="en">TotalEnergies BWF World Championships 2021 (Mens Singles Finals)</title>
+    <desc lang="en">TotalEnergies BWF World Championships 2021 took place from 12 to 19 December 2021 at Palacio de los Deportes Carolina Marn in Huelva, Spain where Singaporean shuttler Loh Kean Yew stormed to victory after beating India's Kidambi Srikanth to win the men's singles title and become the first Singaporean to win a BWF World Championships title.</desc>
+  </programme>
   <programme start="20211225181500 +0800" stop="20211225202000 +0800" channel="Ch 5">
-    <title lang="zh-CN">埃及王子</title>
-    <desc lang="en">埃及王子摩西得知他是希伯来人的身份，以及他注定要成为人民的选定拯救者。</desc>
-  </程序>
+    <title lang="en">The Prince of Egypt</title>
+    <desc lang="en">Egyptian Prince Moses learns of his identity as a Hebrew and his destiny to become the chosen deliverer of his people.</desc>
+  </programme>
   <programme start="20211225202000 +0800" stop="20211225223000 +0800" channel="Ch 5">
-    <title lang="zh-CN">AFF 铃木杯 2020 - 半决赛</title>
-    <desc lang="zh">(直播) AFF铃木杯是由东盟足球联合会(AFF)主办、国际足联认可、东南亚国家A'队参赛的两年一度的足球赛事。第 13 届 AFF Suzuki Cup 定于 2021 年 12 月 5 日至 2022 年 1 月 1 日举行，将继续采用 10 支合格球队分成两组，每组 5 支，采用循环赛制，每支球队进行四场比赛的形式。< /desc>
-  </程序>
+    <title lang="en">AFF Suzuki Cup 2020 - Semi Finals</title>
+    <desc lang="en">(Live) The AFF Suzuki Cup is a biennial football competition organised by the ASEAN Football Federation (AFF), accredited by FIFA, and contested by the national A' teams of Southeast Asia. The 13th edition of the AFF Suzuki Cup, scheduled from 5 December 2021 to 1 January 2022, will continue the format where 10 qualified teams will be split into two groups of five and play a round robin system, with each team playing four fixtures.</desc>
+  </programme>
   <programme start="20211225223000 +0800" stop="20211225230000 +0800" channel="Ch 5">
-    <title lang="zh-CN">今晚新闻</title>
-    <desc lang="en">每日晚间新闻节目，以本地视角对本地和国际新闻进行重点报道和报道。</desc>
-  </程序>
-  <program start="20211225230000 +0800" stop="20211226000000 +0800" channel="Ch 5">
-    <title lang="zh-CN">凯莉·克拉克森的礼物：圣诞节来临之际（2021 年）</title>
-    <desc lang="en">凯莉·克拉克森 (Kelly Clarkson) 将在今年 12 月以她的节日盛会带来季节性欢呼，凯莉·克拉克森 (Kelly Clarkson) 呈献：圣诞节来临之际。舞台将在好莱坞环球影城举行，旨在唤起永恒的圣诞主题，灵感来自于改变观众观点的歌曲的力量——从树下的奇幻世界到北极光照亮的森林.</desc>
-  </程序>
-  <program start="20211226000000 +0800" stop="20211226005500 +0800" channel="Ch 5">
-    <title lang="zh-CN">格温史蒂芬妮：你让它感觉像圣诞节</title>
-    <desc lang="zh-CN">Gwen Stefani 的“You Make It Feel Like Christmas”是对传统圣诞特辑的现代演绎。该节目以音乐表演和有趣的假日主题草图为特色，捕捉了斯蒂芬妮的感染力精神和标志性风格，并与世界各地的观众分享。特邀嘉宾包括布莱克谢尔顿，他是 NBC 的“The Voice”五次获奖教练和屡获殊荣的乡村音乐巨星。</desc>
-  </程序>
+    <title lang="en">News Tonight</title>
+    <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
+  </programme>
+  <programme start="20211225230000 +0800" stop="20211226000000 +0800" channel="Ch 5">
+    <title lang="en">Kelly Clarkson Presents: When Christmas Comes Around (2021)</title>
+    <desc lang="en">Kelly Clarkson is bringing seasonal cheer this December with her holiday spectacular, Kelly Clarkson Presents: When Christmas Comes Around. Taking place at Universal Studios Hollywood, the stage will be designed to evoke timeless Christmas themes inspired by the power of song that change the viewers' point of view --- from fantastical worlds of being underneath the tree to a forest lit by the Northern Lights.</desc>
+  </programme>
+  <programme start="20211226000000 +0800" stop="20211226005500 +0800" channel="Ch 5">
+    <title lang="en">Gwen Stefani: You Make It Feel Like Christmas</title>
+    <desc lang="en">Gwen Stefani's "You Make It Feel Like Christmas" is a modern take on traditional Christmas specials. Featuring music performances and fun holiday-themed sketches, the program captures Stefani's infectious spirit and iconic style, and shares it with audiences around the world. Special guest appearances include Blake Shelton, a five-time winning coach on NBC's "The Voice" and a multi-award-winning country music superstar.</desc>
+  </programme>
   <programme start="20211226005500 +0800" stop="20211226012500 +0800" channel="Ch 5">
-    <title lang="zh-CN">电影和电影 星星</title>
-    <desc lang="zh-CN">电影和电影 明星每周都会在大屏幕上报道最热门的事件。</desc>
-  </程序>
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">Films &amp; Stars cover the hottest events from the big screen every week.</desc>
+  </programme>
   <programme start="20211226012500 +0800" stop="20211226030500 +0800" channel="Ch 5">
-    <title lang="en">圣诞再演</title>
-    <desc lang="zh-CN">一位苦苦挣扎的女演员在《圣诞颂歌》的制作中获得主角地位，并爱上了导演。但是，当剧院失去租约时，演员和工作人员需要一个圣诞节奇迹来挽救演出。</desc>
-  </程序>
+    <title lang="en">Christmas Encore</title>
+    <desc lang="en">A struggling actress earns the lead part in the production of 'A Christmas Carol', and falls in love with the director. But, the cast and crew need a Christmas miracle to save the show when the theater loses its lease.</desc>
+  </programme>
   <programme start="20211226030500 +0800" stop="20211226053000 +0800" channel="Ch 5">
-    <title lang="zh-CN">澳大利亚芭蕾舞团：睡美人</title>
-    <desc lang="zh-CN">澳大利亚芭蕾舞团艺术总监大卫·麦卡利斯特 (David McAllister) 为这部经久不衰的经典作品创作了一部华丽的新作品，并由屡获殊荣的设计师加布里埃拉·泰莱索娃 (Gabriela Tylesova) 打造了奢华的布景和服装。这部引人入胜的作品以柴可夫斯基的高超配乐为背景，为真爱之吻带来了欢乐。</desc>
-  </程序>
+    <title lang="en">The Australian Ballet: The Sleeping Beauty</title>
+    <desc lang="en">The Australian Ballets Artistic Director, David McAllister, has created a sumptuous new production of this timeless classic, with lavish sets and costumes by award-winning designer Gabriela Tylesova. Set to Tchaikovsky's sublime score, this enchanting production casts a spell of delight all the way to true loves kiss.</desc>
+  </programme>
   <programme start="20211226053000 +0800" stop="20211226060000 +0800" channel="Ch 5">
-    <title lang="zh">Euromaxx</title>
-    <desc lang="zh">Euromaxx 是一个生活方式杂志节目，其特色图像和故事反映了欧洲丰富多样的文化生活。它还提供了对欧洲和居住在那里的人们的深入了解。</desc>
-  </程序>
+    <title lang="en">Euromaxx</title>
+    <desc lang="en">Euromaxx is a lifestyle magazine show which features images and stories that reflect the rich diversity of cultural life in Europe. It also provides an insight into Europe and the people who live there.</desc>
+  </programme>
   <programme start="20211226060000 +0800" stop="20211226063000 +0800" channel="Ch 5">
-    <title lang="zh-CN">Zoom Zim Zam S2</title>
-    <desc lang="en">加入拥有超能力的超级英雄 Zoom、Zim 和 Zam，他们会带您游览字母星系，每天教您不同的字母表。今天的字母是 Q 和 U。行星 Q 和 U 的居民正在经历一种不寻常的降雨。帮助他们找到可以蒙住头的东西。</desc>
-  </程序>
+    <title lang="en">Zoom Zim Zam S2</title>
+    <desc lang="en">Join Zoom, Zim and Zam, superheroes with superpowers, as they take you around the alphabet galaxy and teach you a different alphabet everyday. Today's alphabets are Q and U. Residents of Planets Q and U are experiencing an unusual type of rain. Help them find something they can cover their heads with.</desc>
+  </programme>
   <programme start="20211226063000 +0800" stop="20211226070000 +0800" channel="Ch 5">
-    <title lang="zh-CN">彩虹巴士</title>
-    <desc lang="zh-CN">在今天的彩虹巴士这一集中，冒险者们选择了更多地了解水果！D 先生带他们去水果批发中心。在第二个活动中，在果酱制作工坊学习如何制作果酱！他们的最后一次访问将他们带到了水果农场。</desc>
-  </程序>
+    <title lang="en">The Rainbow Bus</title>
+    <desc lang="en">In today's episode of The Rainbow Bus, the adventurers chose to learn more about fruits! Mister D takes them to the Fruits Wholesale Centre. In the second activity, the learn how to make jam at the Jam making workshop! Their last visit takes them to the Fruit Farm.</desc>
+  </programme>
   <programme start="20211226070000 +0800" stop="20211226073000 +0800" channel="Ch 5">
-    <title lang="zh-CN">邹S3</title>
-    <desc lang="en">加入斑马邹及其家人和朋友的行列，进行更多日常发现和探索冒险！</desc>
-  </程序>
+    <title lang="en">Zou S3</title>
+    <desc lang="en">Join Zou the zebra and his family and friends for more daily adventures of discovery and exploration!</desc>
+  </programme>
   <programme start="20211226073000 +0800" stop="20211226080000 +0800" channel="Ch 5">
-    <title lang="zh">巨龙 S1</title>
-    <desc lang="zh-CN">Rocky、Bill、Tiny 和 Mazu 是四只生长在白垩纪的年轻恐龙。生活总是一场冒险......而巨龙，最大、最凶猛的恐龙，统治着这一切！</desc>
-  </程序>
+    <title lang="en">Gigantosaurus S1</title>
+    <desc lang="en">Rocky, Bill, Tiny and Mazu are four young dinosaurs growing up in the Cretaceous period. Life is always an adventure... and Gigantosaurus, the biggest, fiercest dinosaur, reigns over it all!</desc>
+  </programme>
   <programme start="20211226080000 +0800" stop="20211226083000 +0800" channel="Ch 5">
-    <title lang="zh-CN">与 Paula S6 一起计数</title>
-    <desc lang="zh-CN">这是商人先生的生日，他希望能修好他坏掉的架子。机械先生认为他的兄弟应该得到更好的礼物，并在孩子们的帮助下创造了“完美”的东西。商人先生会对他的礼物感到满意吗？孩子们的任务是照顾失踪的外星人婴儿。阿斯特丽德不耐烦，婴儿跑掉了！她必须耐心地把外星人宝宝哄回安全的地方。</desc>
-  </程序>
+    <title lang="en">Counting With Paula S6</title>
+    <desc lang="en">It's Mr Merchant's birthday and wished for his broken shelf to be fixed. Mr Mechanic decides that his brother deserves a better gift and got the help of the children to create something 'perfect'. Will Mr Merchant be happy with his gift? The children are tasked with caring for a lost baby alien. Astrid gets impatient and the baby ran away! She has to patiently coax the baby alien back to safety.</desc>
+  </programme>
   <programme start="20211226083000 +0800" stop="20211226090000 +0800" channel="Ch 5">
-    <title lang="zh">Ollie And Friends S8</title>
-    <desc lang="en">Ollie Squad 与 Poly-GON 的最新对抗导致了一场令人困惑的权力交换！</desc>
-  </程序>
+    <title lang="en">Ollie And Friends S8</title>
+    <desc lang="en">The Ollie Squad's latest confrontation with Poly-GON results in a confusing power-swap!</desc>
+  </programme>
   <programme start="20211226090000 +0800" stop="20211226091500 +0800" channel="Ch 5">
     <title lang="en">Lil Wild S2</title>
     <desc lang="en">Change comes to Lil Wild as Susie is promoted to Ranger and Meep gets a glimpse into family life, which brings back memories of his long-lost dad. Meanwhile a dastardly poacher pursues a mysterious beast through the city.</desc>
